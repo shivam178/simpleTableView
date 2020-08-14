@@ -47,10 +47,4 @@ module.exports = {
       favicon: "./public/favicon.ico",
     }),
   ],
-  addons: [
-    {
-      name: "@babel/preset-react",
-      options: { configureJSX: true },
-    },
-  ],
 };
