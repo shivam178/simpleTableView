@@ -1,0 +1,5 @@
+{
+  "endpoint": "https://books.zoho.com/api/v3/organizations?organization_id=",
+  "authToken": "db36e02a50b57e081efe533a8a0f834b",
+  "organizationId": "649249007"
+}
